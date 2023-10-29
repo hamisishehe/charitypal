@@ -1,0 +1,61 @@
+/// Generated file. Do not edit.
+
+// ignore_for_file: constant_identifier_names
+// ignore_for_file: lines_longer_than_80_chars
+class ImagesRes {
+  static const String PLUGIN_NAME = 'charitypal';
+  static const String PLUGIN_VERSION = '1.0.0+1';
+  static const String CAPTURE = 'images/Capture.PNG';
+  static const String CHARITY = 'images/Charity.gif';
+  static const String CHARITY2 = 'images/Charity2.gif';
+  static const String CHARITY3 = 'images/Charity3.gif';
+  static const String APPS = 'images/apps.png';
+  static const String APPSFILLED = 'images/appsfilled.png';
+  static const String BACK = 'images/back.png';
+  static const String BG2 = 'images/bg2.jpg';
+  static const String BG3 = 'images/bg3.jpg';
+  static const String BOOKMARK = 'images/bookmark.png';
+  static const String BOOKMARKFILLED = 'images/bookmarkfilled.png';
+  static const String CH1 = 'images/ch1.jpg';
+  static const String CH2 = 'images/ch2.jpg';
+  static const String CH4 = 'images/ch4.png';
+  static const String CLOSE = 'images/close.png';
+  static const String COMMENT = 'images/comment.png';
+  static const String COMMENT2 = 'images/comment2.png';
+  static const String DONATION = 'images/donation.png';
+  static const String DONATIONFILLED = 'images/donationfilled.png';
+  static const String EVENT = 'images/event.png';
+  static const String EVENTFILLED = 'images/eventfilled.png';
+  static const String FULLV2 = 'images/fullv2.png';
+  static const String HEART = 'images/heart.png';
+  static const String HEARTFILLED = 'images/heartfilled.png';
+  static const String HOME = 'images/home.png';
+  static const String HOMEFILLED = 'images/homefilled.png';
+  static const String LIKE = 'images/like.png';
+  static const String LIKEF = 'images/likef.png';
+  static const String LIKEFILLED = 'images/likefilled.png';
+  static const String LIKEN = 'images/liken.png';
+  static const String LOG = 'images/log.PNG';
+  static const String LOGBLACK = 'images/logblack.PNG';
+  static const String LOGOB = 'images/logob.png';
+  static const String LOGOBLACK = 'images/logoblack.png';
+  static const String LOGOF = 'images/logof.png';
+  static const String LOGOFULL = 'images/logofull.png';
+  static const String LOGOUT = 'images/logout.png';
+  static const String LOGOWHITE = 'images/logowhite.png';
+  static const String LV2 = 'images/lv2.png';
+  static const String MARKER = 'images/marker.png';
+  static const String MEGA = 'images/mega.png';
+  static const String MEGAFILLED = 'images/megafilled.png';
+  static const String NEWS = 'images/news.png';
+  static const String NOTI1 = 'images/noti1.png';
+  static const String NOTI3 = 'images/noti3.png';
+  static const String PIN = 'images/pin.png';
+  static const String PIN2 = 'images/pin2.png';
+  static const String SETTINGS = 'images/settings.png';
+  static const String SETTINGSFILLED = 'images/settingsfilled.png';
+  static const String STAR = 'images/star.png';
+  static const String TICK = 'images/tick.png';
+  static const String USER = 'images/user.png';
+  static const String USERFILLED = 'images/userfilled.png';
+}

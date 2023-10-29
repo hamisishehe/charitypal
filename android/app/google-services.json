@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "354428863181",
+    "project_id": "my-share-joy",
+    "storage_bucket": "my-share-joy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354428863181:android:da8d46d07d0744b9c31f84",
+        "android_client_info": {
+          "package_name": "com.example.charitypal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354428863181-25vg32cbod1a2nkecvohjcpgkoumd2il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW0VJOwa_s6mcduSGFSrMxk4b5e4wrEuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354428863181-25vg32cbod1a2nkecvohjcpgkoumd2il.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354428863181-fv0k6kfo00ch3l5ua1obq2nl3u37osha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sharejoy.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354428863181:android:a3b8b8176e1723fbc31f84",
+        "android_client_info": {
+          "package_name": "com.example.sharejoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354428863181-gtchirf2h1bir57kkq43hhco1snojo07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sharejoy",
+            "certificate_hash": "ff2a159a27762943d2605922c9fdc6b045e68b06"
+          }
+        },
+        {
+          "client_id": "354428863181-25vg32cbod1a2nkecvohjcpgkoumd2il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW0VJOwa_s6mcduSGFSrMxk4b5e4wrEuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354428863181-25vg32cbod1a2nkecvohjcpgkoumd2il.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354428863181-fv0k6kfo00ch3l5ua1obq2nl3u37osha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sharejoy.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
